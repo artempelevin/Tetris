@@ -1,5 +1,5 @@
 # Tetris
-Simple tetris written in C++ using the SDL2 library
+Simple tetris written in C++ using the SDL2 library (written ~ 01/2021)
 
 ## Features:
 - Scoring points;
